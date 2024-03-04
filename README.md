@@ -1,6 +1,6 @@
 # React Native
 
-> 계산기
+> React Native로 진행한 계산기입니다.
 
 ## Preview
 
